@@ -1,7 +1,7 @@
-INSERT INTO burger (name) VALUES ('Meeses');
-INSERT INTO burger (name) VALUES ('Bobbi');
-INSERT INTO burger (name, eaten) VALUES ('Sylvester', true);
-INSERT INTO burger (name, eaten) VALUES ('Marilyn Manson', true);
-INSERT INTO burger (name, eaten) VALUES ('Joe Biden', true);
-INSERT INTO burger (name) VALUES ('Owens');
+INSERT INTO burger (name) VALUES ('Ruben');
+INSERT INTO burger (name) VALUES ('Mango Habenero');
+INSERT INTO burger (name, eaten) VALUES ('Bacon BBQ', true);
+INSERT INTO burger (name, eaten) VALUES ('Penut Butter Bacon', true);
+INSERT INTO burger (name, eaten) VALUES ('Animal Style', true);
+INSERT INTO burger (name) VALUES ('Jalapeno Pineapple');
 
